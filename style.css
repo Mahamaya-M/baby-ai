@@ -1,0 +1,22 @@
+body{
+    background-position: fixed;
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 10px 10px 25px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
